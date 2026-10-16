@@ -9,6 +9,7 @@ Collaborating in a team environment has helped me learn to appreciate another pe
  
 # Summarize and introduce how your artifacts fit together and inform the portfolio as a whole.
  The artifacts that I have chose for the following categories are,
+ 
  Software design and engineering: <a href="CS499 Software Design and engineering enhancement.zip">Artifact one enhancement</a>, this artifact uses OpenGL to create a 3D scene of a desk with various items on top of it. The enhancement that was made to this artifact was improving the code and adding more objects to the scene. 
  
  Algorithms and data structures: <a href="CS 499 Algorithm and data structures update - Diego Garcia.zip">Artifact two enhancement</a>, this artifact takes a CSV file that has a list of items that would be found in a grocery store and gives the user options to search for an item, show the frequencies, and make a histogram of the frequencies. The enhancement that was made was to switch to an unordered map which would improve the time complexity of the code. 
